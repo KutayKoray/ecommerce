@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "name":"Snow Globe",
+        "price":14.99,
+        "image":"./img/urun1.png"
+    },
+    {
+        "id":2,
+        "name":"Santa Hat",
+        "price":9.99,
+        "image":"./img/urun2.png"
+    },
+    {
+        "id":3,
+        "name":"Christmas Socks",
+        "price":14.99,
+        "image":"./img/urun3.png"
+    },
+    {
+        "id":4,
+        "name":"Candle",
+        "price":14.99,
+        "image":"./img/urun4.png"
+    },
+    {
+        "id":5,
+        "name":"WCandle",
+        "price":14.99,
+        "image":"./img/urun5.png"
+    },
+    {
+        "id":6,
+        "name":"Tree",
+        "price":14.99,
+        "image":"./img/urun6.png"
+    },
+    {
+        "id":7,
+        "name":"Box",
+        "price":14.99,
+        "image":"./img/urun7.png"
+    },
+    {
+        "id":8,
+        "name":"Christmas Tree",
+        "price":14.99,
+        "image":"./img/urun8.png"
+    },
+    {
+        "id":9,
+        "name":"Christmas Card",
+        "price":14.99,
+        "image":"./img/urun9.png"
+    }
+]
